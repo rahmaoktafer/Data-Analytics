@@ -1,4 +1,4 @@
-# Data Analytics and Visualisation
+# Data Analytics and Visualization
 This project is from Accenture North America and is offered through Forage.
 
 The client, a fast-growing social media company,  wants an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
@@ -17,8 +17,8 @@ Steps :
    - Sum the aggregated scores for each category.
   
 4. Data Analysis and Visualisation
-   - Determine the top 5 categories and visualise.
+   - Determine the top 5 categories and visualize.
 
 5. Uncover Insights
-   -Uncover insights for the business and 
+   - Uncover insights for the business and 
    - Create a PowerPoint presentation that reports on the client’s content performance
